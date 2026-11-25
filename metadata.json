@@ -1,0 +1,6 @@
+{
+  "name": "XUI KMP",
+  "description": "XUI rewritten with Kotlin Multiplatform, Compose Multiplatform, and Koin DI for unified Android and iOS UI components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
